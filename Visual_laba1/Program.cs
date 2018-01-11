@@ -10,6 +10,8 @@ namespace Visual_laba1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет");
+            Console.ReadKey();
         }
     }
 }
