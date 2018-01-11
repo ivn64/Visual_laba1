@@ -15,6 +15,9 @@ namespace Visual_laba1
             arr.ArrayOutput();
             arr.MaxFromMinElement();
 
+            String stroka = new String();
+
+
 
             Console.ReadKey();
         }
