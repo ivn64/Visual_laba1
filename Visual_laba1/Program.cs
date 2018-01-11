@@ -10,7 +10,12 @@ namespace Visual_laba1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет");
+            Array arr = new Array();
+            arr.ArrayInput();
+            arr.ArrayOutput();
+            arr.MaxFromMinElement();
+
+
             Console.ReadKey();
         }
     }
