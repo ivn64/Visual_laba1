@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Visual_laba1
 {
-    public class Array
+    public class MyArray
     {
         private const int lines = 5;
         private const int colums = 5;

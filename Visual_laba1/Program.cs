@@ -10,15 +10,14 @@ namespace Visual_laba1
     {
         static void Main(string[] args)
         {
-            Array arr = new Array();
+            MyArray arr = new MyArray();
             arr.ArrayInput();
             arr.ArrayOutput();
             arr.MaxFromMinElement();
 
-            String stroka = new String();
-
-
-
+            MyString stroka = new MyString();
+            stroka.SearchWorlds();
+            
             Console.ReadKey();
         }
     }
